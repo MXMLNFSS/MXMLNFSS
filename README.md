@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MXMLNFSS
+- 👋 Hi, I’m Max
 - 👀 I’m interested in Data Science, maps, music, food and skateboarding
 - 🌱 I’m currently learning R, Python, SQL and JavaScript
 - 💞️ I’m looking to collaborate on projects associated with spatial data science
